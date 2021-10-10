@@ -458,7 +458,7 @@
     },
     {
         "title": "BG Bridal Gallery",
-        "role": "Backend Developer",
+        "role": "Fullstack Developer",
         "company": "CoreProc, Inc.",
         "description": "With its user friendly interface, Bridal Gallery is the most innovative wedding planning app in the Philippines today. Reliable wedding planning services in Philippines is just so easy to find. Users can create an idea gallery by finding great planning tips, global themes, and the finest professionals.",
         "involvement": "from revamp, production and support",
@@ -490,6 +490,7 @@
             "Android Java",
             "Swift",
             "Laravel",
+            "VueJS",
             "MySQL",
             "Firebase",
             "Braintree Payments"
@@ -579,7 +580,7 @@
     },
     {
         "title": "Bundy",
-        "role": "Backend Developer",
+        "role": "Fullstack Developer",
         "company": "CoreProc, Inc.",
         "description": "Bundy is an app for CoreProc to records employees time in and time out. This is an internal project to test my skill set on using Laravel on web development.",
         "involvement": "from start, production and support",
